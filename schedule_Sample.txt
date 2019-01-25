@@ -1,0 +1,19 @@
+Report Name,Frequency,Time
+aa,Monthly Schedule,16:30:00
+,Monthly Absolute: Day 10 of every 1 month(s),
+bb,Monthly Schedule,11:59:00
+,Monthly Absolute: Day 10 of every 1 month(s),
+cc,Daily Schedule,23:37:00
+,Every 1 day(s),
+dd,Weekly Schedule,15:21:00
+,Every 1 week(s) on: Tuesday,
+ee,Weekly Schedule,17:30:00
+,Every 1 week(s) on: Tuesday,
+ff,Weekly Schedule,13:45:00
+,Every 1 week(s) on: Thursday,
+gg,Weekly Schedule,13:45:00
+,Every 1 week(s) on: Monday, Tuesday, Wednesday, Thursday, Friday,
+hh,Weekly Schedule,17:30:00
+,Every 1 week(s) on: Sunday,
+ii,Weekly Schedule,16:30:00
+,Every 1 week(s) on: Sunday,
